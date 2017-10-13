@@ -2,7 +2,7 @@
 
 ![Unidad didáctica 4](https://img.shields.io/badge/UD-4-yellow.svg)
 
-Ejercicios sobre programación orientada a objetos..
+Ejercicios sobre programación orientada a objetos.
 
 ## IntelliJ y GitHub
 
